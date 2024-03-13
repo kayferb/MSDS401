@@ -1,6 +1,6 @@
 ---
-title: "Ferber_Kacey Data Analysis Assignment #2 (75 points total)"
-author: "Ferber, Kacey"
+title: "F_K Data Analysis Assignment #2 (75 points total)"
+author: "F, K"
 output:
   html_document: default
 ---
